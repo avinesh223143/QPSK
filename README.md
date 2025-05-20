@@ -1,5 +1,5 @@
-# QPSK
-## Date:03/05/25
+# EX 06 QPSK
+## Date:10/05/25
 ### Aim
     Write a Python program for the modulation and demodulation of QPSK.
 ### Tools required
@@ -88,4 +88,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/9330ea8f-8d63-440b-9258-720ab3c90e86)
 
 ### Results
-Thus the modulation and demodulation of QPSK program is executed and the parity matrix is generated successfully.
+     Thus the modulation and demodulation of QPSK program is executed and the parity matrix is generated successfully.
